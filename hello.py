@@ -1,0 +1,21 @@
+#!usr/bin/python
+
+print("==================================================")
+print("                     BIODATA                      ")
+print("==================================================")
+
+nama=input("Masukkan Nama : ")
+nim=input("Masukkan NIM : ")
+kelas=input("Masukkan Kelas : ")
+prodi=input("Masukkan Program Studi : ")
+angkatan=input("Masukkan Angkatan : ")
+universitas=input("Universitas : ")
+print("                                  ")
+print("                                  ")
+print("             BIODATA ANDA           ")
+print ("Halo perkenalkan, Nama saya " + nama)
+print ("dengan no NIM " + nim)
+print ("dari Kelas " + kelas)
+print ("prodi " + prodi)
+print ("angkatan ke " + angkatan)
+print ("dari " + universitas)
